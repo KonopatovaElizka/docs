@@ -1,4 +1,7 @@
-# Тестовая документация
+### Тестовая документация
+
+---
+<ya-tr-span data-index="277-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="🖋️" data-translation="🖋️" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">🖋️</ya-tr-span> Пишем тестовую документацию для функционального тестирования Интернет-магазина
 
 [Чек-лист](https://docs.google.com/spreadsheets/d/19bc1S8jSLFlZvNgIrTSdLvSn7uHLIgnDWLUE8wOCOXo/edit?usp=sharing)
 
