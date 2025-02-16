@@ -11,6 +11,8 @@
 
 [Тест-кейсы 2](https://disk.yandex.ru/i/67_Px-69x7NlwQ)
 
+<ya-tr-span data-index="285-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="📝" data-translation="📝" data-ch="0" data-type="trSpan" style="visibility: inherit !important;">📝</ya-tr-span> Используем написанную тестовую документацию для тестирования и собираем данные о найденных дефектах
+
 [Отчёты о дефектах EXCEL](https://docs.google.com/spreadsheets/d/1ThNGB9CtpYEMJh_v_cc4pzyMlA9qTLji/edit?usp=sharing&ouid=115671786412574044896&rtpof=true&sd=true)
 
 [Отчёты о дефектах PDF](https://drive.google.com/file/d/11Zj2853z7u8QsDdf1RAy3eyeHspY4b-U/view?usp=sharing) 
